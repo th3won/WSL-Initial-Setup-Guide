@@ -1,0 +1,5 @@
+{
+  "name": "WSL Initial Setup Guide",
+  "description": "A web application that provides a clear and concise summary of the steps for setting up a WSL (Windows Subsystem for Linux) development environment.",
+  "requestFramePermissions": []
+}
